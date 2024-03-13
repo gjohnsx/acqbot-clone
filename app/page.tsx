@@ -85,7 +85,7 @@ export default function Page() {
           </p>
           <p className="mb-2 leading-normal text-muted-foreground">
             View the prompt I used for the problem statement generator{" "}
-            <ExternalLink href="https://github.com/gjohnsx/acqbot-clone/blob/main/app/action.tsx#L122">
+            <ExternalLink href="https://github.com/gjohnsx/acqbot-clone/blob/main/app/action.tsx#L36">
               here
             </ExternalLink>
             .
