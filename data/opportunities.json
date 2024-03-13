@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "OPP-4550",
+    "title": "5G Distributed Cyber Attack Network",
+    "status": "done",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$3,713,322",
+    "startDate": "2024-02-26T23:20:49.982Z",
+    "endDate": "2044-04-12T02:18:40.470Z"
+  },
+  {
+    "id": "OPP-7056",
+    "title": "You can't back up the bus without copying the 1080p CLI circuit!",
+    "status": "done",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$404,970",
+    "startDate": "2024-02-16T13:30:58.459Z",
+    "endDate": "2030-11-12T23:09:13.376Z"
+  },
+  {
+    "id": "OPP-5106",
+    "title": "You can't copy the matrix without overriding the mobile EXE microchip!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$3,165,930",
+    "startDate": "2024-02-20T05:09:55.507Z",
+    "endDate": "2047-12-27T02:00:35.758Z"
+  },
+  {
+    "id": "OPP-1090",
+    "title": "Calculating the port won't do anything, we need to generate the 1080p JBOD bus!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$427,625",
+    "startDate": "2024-03-09T10:29:29.985Z",
+    "endDate": "2036-02-07T04:18:09.385Z"
+  },
+  {
+    "id": "OPP-9368",
+    "title": "Try to calculate the GB bus, maybe it will quantify the primary bandwidth!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$734,627",
+    "startDate": "2024-02-26T09:44:24.219Z",
+    "endDate": "2039-12-09T16:28:02.144Z"
+  },
+  {
+    "id": "OPP-5709",
+    "title": "If we bypass the system, we can get to the SQL matrix through the mobile FTP capacitor!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "low",
+    "expectedBudget": "$1,309,494",
+    "startDate": "2024-02-28T09:09:01.537Z",
+    "endDate": "2052-07-10T07:47:42.520Z"
+  },
+  {
+    "id": "OPP-9556",
+    "title": "If we input the microchip, we can get to the IP bus through the virtual FTP feed!",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$2,297,247",
+    "startDate": "2024-03-01T12:50:03.993Z",
+    "endDate": "2049-09-18T23:42:38.079Z"
+  },
+  {
+    "id": "OPP-6978",
+    "title": "If we bypass the application, we can get to the UTF8 application through the virtual EXE firewall!",
+    "status": "done",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$3,638,070",
+    "startDate": "2024-02-25T23:12:49.464Z",
+    "endDate": "2028-05-31T02:56:58.709Z"
+  },
+  {
+    "id": "OPP-5802",
+    "title": "We need to compress the wireless OCR pixel!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$2,110,430",
+    "startDate": "2024-02-28T17:05:51.445Z",
+    "endDate": "2043-10-16T20:53:53.347Z"
+  },
+  {
+    "id": "OPP-4706",
+    "title": "We need to parse the back-end JBOD monitor!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$4,793,418",
+    "startDate": "2024-03-04T09:12:23.542Z",
+    "endDate": "2049-02-13T20:47:30.036Z"
+  },
+  {
+    "id": "OPP-6299",
+    "title": "Use the neural HTTP application, then you can compress the back-end panel!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$4,232,314",
+    "startDate": "2024-03-13T00:31:08.786Z",
+    "endDate": "2033-03-12T20:55:05.668Z"
+  },
+  {
+    "id": "OPP-1572",
+    "title": "The RSS alarm is down, program the 1080p sensor so we can compress the EXE array!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "medium",
+    "expectedBudget": "$3,988,041",
+    "startDate": "2024-02-15T11:18:38.116Z",
+    "endDate": "2030-02-06T09:27:58.743Z"
+  },
+  {
+    "id": "OPP-1999",
+    "title": "Try to compress the DRAM monitor, maybe it will reboot the cross-platform card!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,012,596",
+    "startDate": "2024-02-13T13:45:44.660Z",
+    "endDate": "2053-07-24T23:35:59.907Z"
+  },
+  {
+    "id": "OPP-9458",
+    "title": "Use the mobile XSS panel, then you can input the solid state alarm!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$4,389,703",
+    "startDate": "2024-02-21T07:56:52.703Z",
+    "endDate": "2047-02-02T14:08:34.771Z"
+  },
+  {
+    "id": "OPP-2162",
+    "title": "The CSS firewall is down, connect the mobile pixel so we can reboot the RAM sensor!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$2,626,780",
+    "startDate": "2024-02-28T18:57:47.607Z",
+    "endDate": "2044-11-23T16:42:23.867Z"
+  },
+  {
+    "id": "OPP-7873",
+    "title": "We need to generate the open-source SCSI hard drive!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "low",
+    "expectedBudget": "$3,996,932",
+    "startDate": "2024-02-14T12:57:43.851Z",
+    "endDate": "2026-09-08T19:31:14.008Z"
+  },
+  {
+    "id": "OPP-7666",
+    "title": "The TCP driver is down, input the redundant driver so we can connect the TCP bandwidth!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$4,974,636",
+    "startDate": "2024-03-10T19:30:45.712Z",
+    "endDate": "2025-01-24T11:58:02.945Z"
+  },
+  {
+    "id": "OPP-2061",
+    "title": "I'll input the neural SSD microchip, that should feed the HEX interface!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$4,447,040",
+    "startDate": "2024-02-25T11:27:30.216Z",
+    "endDate": "2036-01-01T05:01:27.753Z"
+  },
+  {
+    "id": "OPP-1249",
+    "title": "Use the haptic TCP pixel, then you can copy the online interface!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$4,332,656",
+    "startDate": "2024-02-23T21:13:56.925Z",
+    "endDate": "2040-07-25T06:32:25.482Z"
+  },
+  {
+    "id": "OPP-8892",
+    "title": "You can't navigate the matrix without navigating the wireless UTF8 array!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$3,689,509",
+    "startDate": "2024-02-25T15:57:16.674Z",
+    "endDate": "2028-01-19T22:08:16.020Z"
+  },
+  {
+    "id": "OPP-3314",
+    "title": "Try to input the ASCII bus, maybe it will parse the haptic port!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$4,923,276",
+    "startDate": "2024-03-06T15:27:16.029Z",
+    "endDate": "2032-07-06T07:08:22.885Z"
+  },
+  {
+    "id": "OPP-9084",
+    "title": "The PNG interface is down, navigate the multi-byte circuit so we can calculate the DRAM sensor!",
+    "status": "done",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,534,729",
+    "startDate": "2024-02-21T18:33:37.588Z",
+    "endDate": "2027-01-17T14:42:37.680Z"
+  },
+  {
+    "id": "OPP-5552",
+    "title": "I'll synthesize the 1080p THX feed, that should pixel the XSS application!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$1,146,703",
+    "startDate": "2024-03-01T13:28:22.908Z",
+    "endDate": "2033-06-02T14:59:06.913Z"
+  },
+  {
+    "id": "OPP-2902",
+    "title": "Try to index the AGP driver, maybe it will copy the multi-byte circuit!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$353,065",
+    "startDate": "2024-02-20T21:22:42.421Z",
+    "endDate": "2036-11-09T19:36:38.142Z"
+  },
+  {
+    "id": "OPP-9124",
+    "title": "I'll calculate the solid state SAS card, that should bus the SAS bus!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$1,976,818",
+    "startDate": "2024-02-19T22:12:47.363Z",
+    "endDate": "2051-09-10T08:13:21.565Z"
+  },
+  {
+    "id": "OPP-5585",
+    "title": "Try to back up the USB capacitor, maybe it will generate the solid state card!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$2,705,735",
+    "startDate": "2024-02-19T18:53:35.299Z",
+    "endDate": "2038-07-03T03:24:40.521Z"
+  },
+  {
+    "id": "OPP-9801",
+    "title": "Indexing the port won't do anything, we need to hack the mobile PNG panel!",
+    "status": "done",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$658,194",
+    "startDate": "2024-03-07T19:14:37.723Z",
+    "endDate": "2035-08-30T00:12:26.853Z"
+  },
+  {
+    "id": "OPP-3161",
+    "title": "The SSD port is down, navigate the haptic system so we can index the RSS port!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$4,007,194",
+    "startDate": "2024-02-24T03:45:07.080Z",
+    "endDate": "2029-07-19T21:23:19.884Z"
+  },
+  {
+    "id": "OPP-5012",
+    "title": "The PNG transmitter is down, override the haptic circuit so we can reboot the PNG program!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$3,553,253",
+    "startDate": "2024-02-25T05:39:49.351Z",
+    "endDate": "2032-06-13T16:05:24.372Z"
+  },
+  {
+    "id": "OPP-3496",
+    "title": "Compressing the feed won't do anything, we need to generate the auxiliary FTP port!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$1,171,712",
+    "startDate": "2024-03-11T09:25:07.646Z",
+    "endDate": "2044-02-08T15:11:50.309Z"
+  },
+  {
+    "id": "OPP-9751",
+    "title": "I'll override the wireless SMTP interface, that should application the DRAM panel!",
+    "status": "done",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$2,236,406",
+    "startDate": "2024-03-03T06:34:44.708Z",
+    "endDate": "2033-01-11T08:59:17.591Z"
+  },
+  {
+    "id": "OPP-7894",
+    "title": "Backing up the monitor won't do anything, we need to index the bluetooth ASCII bandwidth!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$3,723,099",
+    "startDate": "2024-03-05T16:44:18.982Z",
+    "endDate": "2031-01-03T06:41:58.037Z"
+  },
+  {
+    "id": "OPP-8443",
+    "title": "The HTTP microchip is down, back up the back-end application so we can hack the SSD capacitor!",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$4,895,853",
+    "startDate": "2024-02-15T08:36:30.903Z",
+    "endDate": "2029-09-28T05:50:09.493Z"
+  },
+  {
+    "id": "OPP-4720",
+    "title": "We need to parse the haptic PNG pixel!",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$4,448,426",
+    "startDate": "2024-03-05T15:52:47.980Z",
+    "endDate": "2029-02-20T00:38:08.524Z"
+  },
+  {
+    "id": "OPP-7463",
+    "title": "I'll navigate the back-end HEX bandwidth, that should hard drive the SCSI bus!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$1,704,838",
+    "startDate": "2024-03-02T05:14:44.492Z",
+    "endDate": "2053-08-19T18:54:58.666Z"
+  },
+  {
+    "id": "OPP-8736",
+    "title": "Use the mobile FTP capacitor, then you can transmit the 1080p interface!",
+    "status": "todo",
+    "label": "bug",
+    "priority": "low",
+    "expectedBudget": "$3,968,905",
+    "startDate": "2024-02-18T21:26:41.515Z",
+    "endDate": "2049-10-19T19:56:56.786Z"
+  },
+  {
+    "id": "OPP-9346",
+    "title": "We need to parse the mobile HDD array!",
+    "status": "done",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$3,350,177",
+    "startDate": "2024-02-29T01:56:56.027Z",
+    "endDate": "2034-09-20T04:29:12.790Z"
+  },
+  {
+    "id": "OPP-4232",
+    "title": "Copying the sensor won't do anything, we need to reboot the back-end COM interface!",
+    "status": "todo",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$3,778,107",
+    "startDate": "2024-03-07T16:28:49.934Z",
+    "endDate": "2038-04-22T16:26:44.002Z"
+  },
+  {
+    "id": "OPP-9998",
+    "title": "I'll input the mobile GB array, that should program the API program!",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "medium",
+    "expectedBudget": "$1,677,949",
+    "startDate": "2024-02-15T02:21:34.050Z",
+    "endDate": "2034-11-01T10:24:08.635Z"
+  },
+  {
+    "id": "OPP-1467",
+    "title": "You can't index the program without generating the optical PNG hard drive!",
+    "status": "done",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$2,107,217",
+    "startDate": "2024-02-27T04:22:32.077Z",
+    "endDate": "2045-04-02T06:41:02.740Z"
+  },
+  {
+    "id": "OPP-5204",
+    "title": "Try to bypass the HDD capacitor, maybe it will copy the auxiliary transmitter!",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$2,433,579",
+    "startDate": "2024-02-13T16:48:19.729Z",
+    "endDate": "2053-10-12T19:56:58.110Z"
+  },
+  {
+    "id": "OPP-8492",
+    "title": "We need to back up the solid state TLS monitor!",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$2,675,032",
+    "startDate": "2024-03-09T14:01:49.799Z",
+    "endDate": "2043-01-08T17:34:14.140Z"
+  },
+  {
+    "id": "OPP-4554",
+    "title": "Copying the interface won't do anything, we need to transmit the haptic JBOD microchip!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "medium",
+    "expectedBudget": "$3,482,158",
+    "startDate": "2024-02-18T00:30:01.415Z",
+    "endDate": "2034-03-19T00:06:02.165Z"
+  },
+  {
+    "id": "OPP-7423",
+    "title": "Use the haptic PCI microchip, then you can index the primary sensor!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$1,841,313",
+    "startDate": "2024-02-18T23:43:20.658Z",
+    "endDate": "2035-07-02T19:54:03.032Z"
+  },
+  {
+    "id": "OPP-2167",
+    "title": "If we calculate the sensor, we can get to the JBOD firewall through the haptic CLI panel!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$2,122,240",
+    "startDate": "2024-03-10T18:26:30.610Z",
+    "endDate": "2049-10-28T14:19:28.296Z"
+  },
+  {
+    "id": "OPP-7263",
+    "title": "Use the optical SSL bus, then you can calculate the multi-byte card!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$3,257,221",
+    "startDate": "2024-03-12T00:26:26.725Z",
+    "endDate": "2025-01-13T16:05:27.388Z"
+  },
+  {
+    "id": "OPP-8612",
+    "title": "Use the bluetooth UTF8 feed, then you can connect the haptic monitor!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$571,585",
+    "startDate": "2024-03-05T02:26:30.575Z",
+    "endDate": "2029-02-21T13:00:17.085Z"
+  },
+  {
+    "id": "OPP-4095",
+    "title": "Try to parse the CSS array, maybe it will reboot the optical pixel!",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$1,802,104",
+    "startDate": "2024-03-06T20:42:17.241Z",
+    "endDate": "2039-11-01T14:17:32.297Z"
+  },
+  {
+    "id": "OPP-8847",
+    "title": "Use the bluetooth SAS application, then you can connect the primary port!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$2,770,827",
+    "startDate": "2024-02-25T11:20:17.509Z",
+    "endDate": "2033-05-02T09:49:18.492Z"
+  },
+  {
+    "id": "OPP-1166",
+    "title": "Try to connect the VGA matrix, maybe it will parse the virtual system!",
+    "status": "canceled",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$3,790,648",
+    "startDate": "2024-03-13T15:57:23.870Z",
+    "endDate": "2047-10-13T13:59:28.821Z"
+  },
+  {
+    "id": "OPP-5019",
+    "title": "Navigating the microchip won't do anything, we need to copy the optical ADP bandwidth!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$4,450,939",
+    "startDate": "2024-02-14T02:40:16.769Z",
+    "endDate": "2053-03-29T00:07:24.363Z"
+  },
+  {
+    "id": "OPP-1954",
+    "title": "Hacking the bus won't do anything, we need to input the optical UDP pixel!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,694,975",
+    "startDate": "2024-02-26T21:44:42.601Z",
+    "endDate": "2033-09-29T14:44:51.956Z"
+  },
+  {
+    "id": "OPP-5858",
+    "title": "If we hack the bus, we can get to the PNG microchip through the bluetooth SCSI bus!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$1,256,121",
+    "startDate": "2024-02-21T01:21:00.431Z",
+    "endDate": "2041-12-29T19:55:20.083Z"
+  },
+  {
+    "id": "OPP-3023",
+    "title": "Copying the system won't do anything, we need to quantify the multi-byte CLI protocol!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$2,024,997",
+    "startDate": "2024-02-26T03:00:20.477Z",
+    "endDate": "2032-07-09T08:27:17.877Z"
+  },
+  {
+    "id": "OPP-7643",
+    "title": "You can't parse the protocol without parsing the digital UTF8 transmitter!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,714,885",
+    "startDate": "2024-02-18T09:53:25.779Z",
+    "endDate": "2053-01-15T13:30:35.410Z"
+  },
+  {
+    "id": "OPP-2909",
+    "title": "The DRAM transmitter is down, back up the wireless pixel so we can parse the AI interface!",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$2,319,107",
+    "startDate": "2024-02-17T21:58:53.325Z",
+    "endDate": "2031-01-22T21:38:23.230Z"
+  },
+  {
+    "id": "OPP-8324",
+    "title": "Backing up the circuit won't do anything, we need to navigate the multi-byte SDD card!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "medium",
+    "expectedBudget": "$1,906,731",
+    "startDate": "2024-03-05T05:34:21.027Z",
+    "endDate": "2025-05-19T13:44:12.138Z"
+  },
+  {
+    "id": "OPP-3090",
+    "title": "We need to override the back-end IB program!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$4,913,001",
+    "startDate": "2024-02-16T23:24:41.339Z",
+    "endDate": "2028-11-01T03:21:40.898Z"
+  },
+  {
+    "id": "OPP-1431",
+    "title": "Use the back-end SMS system, then you can index the multi-byte firewall!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$4,773,816",
+    "startDate": "2024-02-20T21:05:20.303Z",
+    "endDate": "2033-11-11T01:51:07.682Z"
+  },
+  {
+    "id": "OPP-2414",
+    "title": "If we synthesize the circuit, we can get to the AI interface through the primary DRAM panel!",
+    "status": "canceled",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$1,595,132",
+    "startDate": "2024-03-04T12:43:39.934Z",
+    "endDate": "2049-09-08T00:27:55.217Z"
+  },
+  {
+    "id": "OPP-7695",
+    "title": "Use the haptic SSD application, then you can reboot the bluetooth firewall!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$3,330,901",
+    "startDate": "2024-02-26T13:48:04.745Z",
+    "endDate": "2027-05-23T00:03:31.286Z"
+  },
+  {
+    "id": "OPP-4819",
+    "title": "You can't input the application without connecting the digital OCR transmitter!",
+    "status": "done",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$4,861,267",
+    "startDate": "2024-02-25T05:06:09.525Z",
+    "endDate": "2042-10-02T11:24:19.702Z"
+  },
+  {
+    "id": "OPP-1878",
+    "title": "We need to input the virtual SSD hard drive!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "medium",
+    "expectedBudget": "$3,089,757",
+    "startDate": "2024-02-27T19:58:39.118Z",
+    "endDate": "2039-01-03T12:53:46.457Z"
+  },
+  {
+    "id": "OPP-2876",
+    "title": "You can't hack the interface without backing up the wireless HDD microchip!",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$3,985,268",
+    "startDate": "2024-02-13T09:22:40.694Z",
+    "endDate": "2044-09-30T03:31:04.771Z"
+  },
+  {
+    "id": "OPP-6592",
+    "title": "Try to reboot the VGA hard drive, maybe it will override the online feed!",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$1,315,986",
+    "startDate": "2024-03-07T14:17:11.166Z",
+    "endDate": "2044-08-25T01:08:35.941Z"
+  },
+  {
+    "id": "OPP-5600",
+    "title": "Try to hack the XSS capacitor, maybe it will calculate the solid state protocol!",
+    "status": "done",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$1,498,899",
+    "startDate": "2024-02-24T15:13:01.647Z",
+    "endDate": "2034-02-21T23:31:14.264Z"
+  },
+  {
+    "id": "OPP-7837",
+    "title": "If we reboot the hard drive, we can get to the OCR application through the primary TCP feed!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$2,232,650",
+    "startDate": "2024-02-14T00:04:37.558Z",
+    "endDate": "2034-06-25T06:39:47.533Z"
+  },
+  {
+    "id": "OPP-4599",
+    "title": "I'll program the redundant DNS microchip, that should firewall the HDD pixel!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,725,559",
+    "startDate": "2024-02-29T20:06:49.513Z",
+    "endDate": "2052-09-18T20:32:53.226Z"
+  },
+  {
+    "id": "OPP-8370",
+    "title": "You can't calculate the array without navigating the auxiliary HTTP alarm!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$3,263,607",
+    "startDate": "2024-03-03T00:57:35.467Z",
+    "endDate": "2034-06-03T08:44:49.058Z"
+  },
+  {
+    "id": "OPP-8374",
+    "title": "If we synthesize the panel, we can get to the THX bandwidth through the wireless PNG firewall!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$1,770,593",
+    "startDate": "2024-03-05T19:25:03.806Z",
+    "endDate": "2029-07-30T01:00:17.670Z"
+  },
+  {
+    "id": "OPP-6262",
+    "title": "The AGP interface is down, index the virtual application so we can transmit the TLS card!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$953,656",
+    "startDate": "2024-02-13T18:37:55.468Z",
+    "endDate": "2051-03-25T16:04:38.725Z"
+  },
+  {
+    "id": "OPP-5324",
+    "title": "You can't compress the hard drive without parsing the 1080p ADP firewall!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$1,993,220",
+    "startDate": "2024-03-04T03:54:14.307Z",
+    "endDate": "2052-12-18T07:38:49.144Z"
+  },
+  {
+    "id": "OPP-3266",
+    "title": "The UTF8 monitor is down, synthesize the virtual pixel so we can synthesize the ASCII matrix!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,405,709",
+    "startDate": "2024-02-22T11:21:24.936Z",
+    "endDate": "2038-05-21T20:02:46.346Z"
+  },
+  {
+    "id": "OPP-2806",
+    "title": "The EXE monitor is down, back up the haptic system so we can back up the DNS microchip!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$1,593,223",
+    "startDate": "2024-02-13T19:16:11.619Z",
+    "endDate": "2024-07-02T13:07:00.654Z"
+  },
+  {
+    "id": "OPP-4637",
+    "title": "Navigating the port won't do anything, we need to quantify the solid state RAM port!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,044,968",
+    "startDate": "2024-02-23T16:14:59.294Z",
+    "endDate": "2042-07-01T18:24:44.104Z"
+  },
+  {
+    "id": "OPP-6229",
+    "title": "You can't reboot the protocol without transmitting the bluetooth RSS matrix!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$4,101,552",
+    "startDate": "2024-03-11T12:33:56.105Z",
+    "endDate": "2051-10-06T03:58:29.362Z"
+  },
+  {
+    "id": "OPP-3727",
+    "title": "Try to bypass the UDP monitor, maybe it will parse the bluetooth array!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$2,716,027",
+    "startDate": "2024-02-19T18:52:26.582Z",
+    "endDate": "2030-06-25T01:47:27.850Z"
+  },
+  {
+    "id": "OPP-4120",
+    "title": "I'll hack the wireless XML feed, that should application the SMTP driver!",
+    "status": "done",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$250,921",
+    "startDate": "2024-02-20T04:12:07.041Z",
+    "endDate": "2033-11-04T20:35:31.570Z"
+  },
+  {
+    "id": "OPP-6415",
+    "title": "The SQL sensor is down, back up the primary microchip so we can generate the OCR program!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,393,323",
+    "startDate": "2024-03-12T04:02:56.413Z",
+    "endDate": "2027-05-31T22:47:09.960Z"
+  },
+  {
+    "id": "OPP-1822",
+    "title": "Bypassing the hard drive won't do anything, we need to connect the back-end UDP program!",
+    "status": "todo",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$3,110,877",
+    "startDate": "2024-03-05T20:02:04.062Z",
+    "endDate": "2027-04-22T11:59:07.827Z"
+  },
+  {
+    "id": "OPP-6718",
+    "title": "Try to index the PNG alarm, maybe it will quantify the digital alarm!",
+    "status": "in progress",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$3,656,398",
+    "startDate": "2024-02-14T02:10:42.743Z",
+    "endDate": "2026-11-21T13:04:29.500Z"
+  },
+  {
+    "id": "OPP-2082",
+    "title": "We need to index the online EXE hard drive!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,659,745",
+    "startDate": "2024-03-03T10:07:23.676Z",
+    "endDate": "2051-04-15T16:43:14.365Z"
+  },
+  {
+    "id": "OPP-5933",
+    "title": "Hacking the firewall won't do anything, we need to index the cross-platform SCSI protocol!",
+    "status": "canceled",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$2,664,435",
+    "startDate": "2024-02-22T10:19:26.119Z",
+    "endDate": "2034-12-25T23:13:50.337Z"
+  },
+  {
+    "id": "OPP-5372",
+    "title": "Try to input the CSS application, maybe it will back up the solid state transmitter!",
+    "status": "done",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$3,375,373",
+    "startDate": "2024-02-15T10:06:58.565Z",
+    "endDate": "2053-11-10T05:32:30.687Z"
+  },
+  {
+    "id": "OPP-8073",
+    "title": "You can't transmit the capacitor without programming the haptic AGP monitor!",
+    "status": "backlog",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$4,430,940",
+    "startDate": "2024-03-03T09:34:07.700Z",
+    "endDate": "2049-01-24T08:48:45.040Z"
+  },
+  {
+    "id": "OPP-2717",
+    "title": "You can't override the feed without generating the bluetooth AI panel!",
+    "status": "done",
+    "label": "bug",
+    "priority": "medium",
+    "expectedBudget": "$4,319,336",
+    "startDate": "2024-02-19T08:51:41.929Z",
+    "endDate": "2052-07-05T14:09:06.032Z"
+  },
+  {
+    "id": "OPP-8224",
+    "title": "If we connect the interface, we can get to the XML array through the haptic DRAM card!",
+    "status": "done",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,539,063",
+    "startDate": "2024-02-21T20:15:44.066Z",
+    "endDate": "2046-10-09T04:25:50.538Z"
+  },
+  {
+    "id": "OPP-3502",
+    "title": "You can't index the card without compressing the online FTP protocol!",
+    "status": "done",
+    "label": "documentation",
+    "priority": "high",
+    "expectedBudget": "$4,215,159",
+    "startDate": "2024-02-24T03:00:05.606Z",
+    "endDate": "2043-03-29T02:38:54.791Z"
+  },
+  {
+    "id": "OPP-8875",
+    "title": "You can't generate the circuit without transmitting the online CLI transmitter!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$4,626,113",
+    "startDate": "2024-03-03T14:02:14.131Z",
+    "endDate": "2036-09-16T10:14:12.405Z"
+  },
+  {
+    "id": "OPP-4210",
+    "title": "Generating the interface won't do anything, we need to input the haptic SAS firewall!",
+    "status": "done",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$1,633,087",
+    "startDate": "2024-03-11T03:43:53.150Z",
+    "endDate": "2041-08-05T02:11:36.917Z"
+  },
+  {
+    "id": "OPP-4054",
+    "title": "Generating the bandwidth won't do anything, we need to compress the back-end HEX transmitter!",
+    "status": "todo",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$1,208,973",
+    "startDate": "2024-03-07T19:35:14.382Z",
+    "endDate": "2034-12-15T13:43:25.899Z"
+  },
+  {
+    "id": "OPP-3055",
+    "title": "Try to index the HDD protocol, maybe it will compress the digital port!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$2,673,943",
+    "startDate": "2024-03-07T00:33:40.799Z",
+    "endDate": "2027-02-27T10:35:59.377Z"
+  },
+  {
+    "id": "OPP-6409",
+    "title": "Try to transmit the VGA protocol, maybe it will hack the neural application!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$531,511",
+    "startDate": "2024-03-10T10:47:06.515Z",
+    "endDate": "2028-07-26T00:02:05.530Z"
+  },
+  {
+    "id": "OPP-1382",
+    "title": "If we copy the matrix, we can get to the SAS system through the online SAS panel!",
+    "status": "in progress",
+    "label": "bug",
+    "priority": "low",
+    "expectedBudget": "$4,944,115",
+    "startDate": "2024-02-16T01:25:04.389Z",
+    "endDate": "2028-09-04T09:43:02.893Z"
+  },
+  {
+    "id": "OPP-1240",
+    "title": "I'll transmit the cross-platform PCI port, that should circuit the AI array!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "low",
+    "expectedBudget": "$3,124,506",
+    "startDate": "2024-03-09T15:52:15.708Z",
+    "endDate": "2040-12-05T23:31:16.459Z"
+  },
+  {
+    "id": "OPP-8480",
+    "title": "If we compress the program, we can get to the API feed through the wireless XML program!",
+    "status": "done",
+    "label": "bug",
+    "priority": "high",
+    "expectedBudget": "$4,520,548",
+    "startDate": "2024-02-25T18:14:32.639Z",
+    "endDate": "2032-07-02T03:19:17.848Z"
+  },
+  {
+    "id": "OPP-8814",
+    "title": "We need to quantify the online OCR bandwidth!",
+    "status": "backlog",
+    "label": "bug",
+    "priority": "low",
+    "expectedBudget": "$2,850,545",
+    "startDate": "2024-02-16T20:14:33.124Z",
+    "endDate": "2049-06-05T00:28:41.573Z"
+  },
+  {
+    "id": "OPP-6554",
+    "title": "Programming the application won't do anything, we need to bypass the mobile CLI application!",
+    "status": "backlog",
+    "label": "documentation",
+    "priority": "low",
+    "expectedBudget": "$4,951,332",
+    "startDate": "2024-03-05T07:28:15.037Z",
+    "endDate": "2036-06-17T19:33:17.987Z"
+  },
+  {
+    "id": "OPP-7100",
+    "title": "Navigating the hard drive won't do anything, we need to copy the solid state API driver!",
+    "status": "todo",
+    "label": "feature",
+    "priority": "high",
+    "expectedBudget": "$4,935,890",
+    "startDate": "2024-02-26T20:52:24.157Z",
+    "endDate": "2051-09-30T19:27:15.062Z"
+  },
+  {
+    "id": "OPP-7185",
+    "title": "If we synthesize the bandwidth, we can get to the CSS matrix through the redundant SDD system!",
+    "status": "in progress",
+    "label": "feature",
+    "priority": "medium",
+    "expectedBudget": "$4,074,223",
+    "startDate": "2024-03-11T14:18:28.004Z",
+    "endDate": "2035-05-18T09:42:18.957Z"
+  }
+]
