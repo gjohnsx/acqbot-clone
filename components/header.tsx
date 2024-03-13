@@ -21,6 +21,14 @@ export async function Header() {
             alt="ACBot Logo"
             width={30}
             height={30}
+            className="dark:hidden"
+          />
+          <Image
+            src="/acqbot-logo-white.webp"
+            alt="ACBot Logo"
+            width={30}
+            height={30}
+            className="hidden dark:block"
           />
         </Link>
         <IconSeparator className="w-6 h-6 text-muted-foreground/20" />

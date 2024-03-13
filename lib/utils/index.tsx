@@ -45,54 +45,58 @@ export function runOpenAICompletion<
   const { functions, ...rest } = params;
 
   (async () => {
+    // Dynamically construct the API call parameters
+    const apiParams =
+      functions.length > 0
+        ? {
+            ...rest,
+            stream: true,
+            functions: functions.map((fn) => ({
+              name: fn.name,
+              description: fn.description,
+              parameters: zodToJsonSchema(fn.parameters) as Record<
+                string,
+                unknown
+              >,
+            })),
+          }
+        : {
+            ...rest,
+            stream: true,
+          };
+
     consumeStream(
-      OpenAIStream(
-        (await openai.chat.completions.create({
-          ...rest,
-          stream: true,
-          functions: functions.map((fn) => ({
-            name: fn.name,
-            description: fn.description,
-            parameters: zodToJsonSchema(fn.parameters) as Record<
-              string,
-              unknown
-            >,
-          })),
-        })) as any,
-        {
-          async experimental_onFunctionCall(functionCallPayload) {
-            hasFunction = true;
+      OpenAIStream((await openai.chat.completions.create(apiParams)) as any, {
+        async experimental_onFunctionCall(functionCallPayload) {
+          hasFunction = true;
 
-            if (!onFunctionCall[functionCallPayload.name]) {
-              return;
-            }
+          if (!onFunctionCall[functionCallPayload.name]) {
+            return;
+          }
 
-            // we need to convert arguments from z.input to z.output
-            // this is necessary if someone uses a .default in their schema
-            const zodSchema = functionsMap[functionCallPayload.name].parameters;
-            const parsedArgs = zodSchema.safeParse(
-              functionCallPayload.arguments
+          // we need to convert arguments from z.input to z.output
+          // this is necessary if someone uses a .default in their schema
+          const zodSchema = functionsMap[functionCallPayload.name].parameters;
+          const parsedArgs = zodSchema.safeParse(functionCallPayload.arguments);
+
+          if (!parsedArgs.success) {
+            throw new Error(
+              `Invalid function call in message. Expected a function call object`
             );
+          }
 
-            if (!parsedArgs.success) {
-              throw new Error(
-                `Invalid function call in message. Expected a function call object`
-              );
-            }
-
-            onFunctionCall[functionCallPayload.name]?.(parsedArgs.data);
-          },
-          onToken(token) {
-            text += token;
-            if (text.startsWith("{")) return;
-            onTextContent(text, false);
-          },
-          onFinal() {
-            if (hasFunction) return;
-            onTextContent(text, true);
-          },
-        }
-      )
+          onFunctionCall[functionCallPayload.name]?.(parsedArgs.data);
+        },
+        onToken(token) {
+          text += token;
+          if (text.startsWith("{")) return;
+          onTextContent(text, false);
+        },
+        onFinal() {
+          if (hasFunction) return;
+          onTextContent(text, true);
+        },
+      })
     );
   })();
 

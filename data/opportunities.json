@@ -2,9 +2,9 @@
   {
     "id": "OPP-4550",
     "title": "5G Distributed Cyber Attack Network",
-    "status": "done",
+    "status": "todo",
     "label": "feature",
-    "priority": "low",
+    "priority": "high",
     "expectedBudget": "$3,713,322",
     "startDate": "2024-02-26T23:20:49.982Z",
     "endDate": "2044-04-12T02:18:40.470Z"
