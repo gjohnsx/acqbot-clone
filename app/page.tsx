@@ -80,8 +80,8 @@ export default function Page() {
             Welcome to my AcqBot Clone Demo!
           </h1>
           <p className="mb-2 leading-normal text-muted-foreground">
-            This is a demo of an interactive chat. It can show you stocks, tell
-            you their prices, and even help you buy shares.
+            I built this demo as part of my application for the Senior Software
+            Developer position at Trenchant Analytics.
           </p>
           <p className="mb-2 leading-normal text-muted-foreground">
             View the prompt I used for the problem statement generator{" "}
